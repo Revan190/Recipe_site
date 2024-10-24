@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Pasta Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "image": "recipe1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Chocolate Cake",
+        "description": "A rich and moist chocolate cake that's perfect for any occasion.",
+        "image": "recipe2.jpg"
+    }
+]
